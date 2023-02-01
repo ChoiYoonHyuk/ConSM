@@ -1,4 +1,4 @@
-## Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification
+## [CIKM '22] Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification
 
 ### Project Structure
 
@@ -28,3 +28,8 @@ python3 ./consm.py [0~5], number means dataset
 - Iteration will be 300 epochs
 - For this version, the time complexity of subgraph matching module can be high (we'll update parallel computation later)
 
+## Citation
+
+```
+https://dl.acm.org/doi/abs/10.1145/3511808.3557324
+```
